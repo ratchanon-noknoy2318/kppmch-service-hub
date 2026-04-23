@@ -43,7 +43,7 @@ Main functionalities:
 - Appointment scheduling system
 - Doctor and staff workflow management
 - Medical record tracking
-- Administrative dashboard for hospital operations
+- Hospital administrative dashboard
 
 ---
 
@@ -65,8 +65,7 @@ Main functionalities:
 - React - Frontend framework
 - Node.js - Backend runtime
 - Express - API server
-- Tailwind CSS - UI styling
-- MySQL - Database
+- CSS - Styling
 
 ---
 
@@ -75,30 +74,29 @@ Main functionalities:
 hospital-operations-platform/
 ├── client/          (Frontend - React)
 ├── server/          (Backend - Node.js + Express)
-├── database/        (SQL scripts)
 └── README.md
 
 ---
 
 ## 📌 System Overview
 
-This platform is inspired by modern smart hospital systems that use digital transformation to improve healthcare workflows, reduce paperwork, and increase operational efficiency.
+This platform is designed to support hospital operations by digitizing core workflows such as patient handling, scheduling, and administrative tasks.
 
 Key goals:
-- Reduce hospital workload
-- Improve patient experience
-- Centralize hospital data
-- Support scalable healthcare operations
+- Reduce manual workload in hospitals
+- Improve operational efficiency
+- Centralize hospital data management
+- Enhance patient service experience
 
 ---
 
 ## 📈 Future Improvements
 
 - AI-assisted hospital workflow optimization
-- Real-time hospital dashboard
+- Real-time dashboard monitoring
 - Mobile application (React Native)
-- Integration with national health systems
-- Advanced analytics and reporting tools
+- Integration with external healthcare systems
+- Advanced reporting and analytics features
 
 ---
 
@@ -109,4 +107,5 @@ GitHub: https://github.com/ratchanon-noknoy2318
 ---
 
 ## 📄 License
+
 This project is for educational and portfolio purposes only.
